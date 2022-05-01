@@ -1,0 +1,25 @@
+Documentação
+
+Esse software foi desenvolvido com o objetivo de facilitar a busca de usuários específicos através do contéudo da biografia.
+
+Funcionamento:
+
+- No campo "USUÁRIO" e "SENHA" você deve colocar o login seu instagram, recomendo 
+criar um instagram apenas para a requisicação.
+
+- No campo "ID" você deve preencher com o nome do usuário que você desejar puxar todos os seguidores, ou seja, as pessoas que ele segue.
+
+
+Apos clicar no botão "GERAR LISTA" você deve aguardar o sistema montar a lista no excel (Você será notificado quando o processo terminar), enquanto isso você pode
+continuar fazendo suas outras atividades.
+
+O tempo do processo pode variar de acordo com a quantidade de seguidores, o sistema foi programado para puxa um seguidor a cada 10 segundos, para que seja evitado
+a suspensão do seu instagram.
+
+Após a finalização, você entrará na pasta botess e lá estará o arquivo em excel chamado "clientes". 
+
+Recomendo utilizar o filtro do excel na cédula biografia, assim irá aparecer apenas o que você deseja.
+
+Atenciosamente,
+
+Tess
